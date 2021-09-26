@@ -104,28 +104,28 @@ body {
   color: #080808;
   background: linear-gradient(-18deg, #F3F3F3 52.7%, #e9e9e9 52.2% 100%); }
 
-.header-bottom-cover {
-  background: linear-gradient(-6.7deg, #d8d7d7 47%, #e9e9e9 47.6% 100%);
+.header-bottom-OUT {
+  background: linear-gradient(-6.7deg, #555454 47%, #e9e9e9 47.6% 100%);
   padding: 0 10rem 0 10rem; }
 
-.header-bottom {
+.header-bottom-IN {
   height: 25rem;
   background: linear-gradient(-8deg, #141414 52%, #F3F3F3 52.5% 100%); }
 
-.main-top-cover {
+.main-top-OUT {
   background: linear-gradient(5.5deg, #e9e9e9 47%, #555454 47.6% 100%);
   padding: 0 10rem 0 10rem; }
 
-.main-top {
+.main-top-IN {
   background: linear-gradient(4.5deg, #F3F3F3 55%, #141414 55.6% 100%);
   height: 20rem;
   color: #080808; }
 
-.main-cover {
+.main-OUT {
   padding: 0 10rem 0 10rem;
   background: linear-gradient(15.5deg, #e9e9e9 60%, #e9e9e9 60.6% 100%); }
 
-.main {
+.main-IN {
   height: 50rem;
   background: linear-gradient(15.5deg, rgba(238, 238, 238, 0.897) 37%, #F3F3F3 37.6% 100%); }
 
